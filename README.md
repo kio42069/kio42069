@@ -1,34 +1,22 @@
 <h1 align="center">Hello, I'm Surat</h1>
 <h3 align="center">Software Engineer @ Infoedge</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=kio42069">
-    <img src="https://komarev.com/ghpvc/?username=kio42069&label=Profile%20views&color=00FFFF&style=flat-square" alt="kio42069's profile views" />
-  </a>
-</p>
-
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- just graduated, interested in contributing to plugins or helper scripts for the hypr ecosystem or arch linux in general
+## About Me
+just graduated, interested in contributing to plugins or helper scripts for the hypr ecosystem or arch linux in general
 
 
-## 🧠 My Focus Areas
-- Currently applications of network in AI/ML training and inferencing, testing out new protocols and trying to build simulators for them
+## My Focus Areas
+Currently applications of network in AI/ML training and inferencing, testing out new protocols and trying to build simulators for them
 
 
-## 📊 GitHub Stats & Trophies
+## GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/kio42069">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kio42069&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="kio42069's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=kio42069&theme=dracula&hide_border=true&cache_seconds=86400" alt="kio42069's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=kio42069&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="surat's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kio42069&theme=dracula&radius=10" alt="kio42069's Activity Graph" />
 </p>
 
 
