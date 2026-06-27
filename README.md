@@ -19,32 +19,13 @@ Currently applications of network in AI/ML training and inferencing, testing out
   <img src="https://trophy.ryglcloud.net/?username=kio42069&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="surat's GitHub Trophies" />
 </p>
 
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
-
-</p>
-
 <p align="center">
   <a href="https://github.com/kio42069">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kio42069&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
-## 🔗 Connect with Me
+## connect pls?
 <p align="center">
   <a href="https://www.linkedin.com/in/surat-sathi-samanta-01b973263/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="surat's LinkedIn"/></a>
   <a href="mailto:suratsamanta@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="surat's Email"/></a>
